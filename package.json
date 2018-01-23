@@ -6,8 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Joao Rafael Campos da Silva",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rafaelcam/debt-remember.git"
+  },
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
